@@ -1,0 +1,14 @@
+appsettings.Development.json
+.env
+bin/
+obj/
+out/
+publish/
+.vs/
+*.user
+*.suo
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
