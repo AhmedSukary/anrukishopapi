@@ -45,8 +45,11 @@ Exposes RESTful endpoints and handles HTTP requests and responses.
 ## Project Structure
 AnrukiShopAPI/
 ├── Domain/
+
 ├── Application/
+
 ├── Infrastructure/
+
 └── API/
 
 
